@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #000000;
+    text-align: center;
+}
+h1 {
+    color: #ffffff;
+    text-align: end;
+}
+p {
+    color: #ffffff;
+}
+label {
+    color: #ffffff;
+}
+input[type="number"] {
+    width: 100px;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+button {
+    padding: 10px 40px;
+    background-color: #ff0000;
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #45a049;
+}
+#canvas {
+    display: block;
+    margin: 0 auto;
+    width: 600px;
+    height: 600px;
+    border: 1px solid #ffffff;
+    background-image:"Captura de pantalla 2024-05-08 192759.png ";
+}
+
